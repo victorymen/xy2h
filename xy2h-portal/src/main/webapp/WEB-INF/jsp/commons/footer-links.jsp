@@ -1,0 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div id="footer-2013">
+	<div class="links"><a href="http://www.xy2h.com/intro/about.aspx" target="_blank" rel="nofollow">关于我们</a>|<a href="http://www.xy2h.com/contact/" target="_blank" rel="nofollow">联系我们</a>|<a href="http://zhaopin.xy2h.com/" target="_blank" rel="nofollow">人才招聘</a>|<a href="http://www.xy2h.com/contact/joinin.aspx" target="_blank" rel="nofollow">商家入驻</a>|<a href="http://jzt.xy2h.com" target="_blank" rel="nofollow">营销中心</a>|<a href="http://app.xy2h.com/" target="_blank" rel="nofollow">手机二货</a>|<a href="http://club.xy2h.com/links.aspx" target="_blank">友情链接</a>|<a href="http://media.xy2h.com/" target="_blank">销售联盟</a>|<a target="_blank" href="http://club.xy2h.com/">二货社区</a>|<a target="_blank" href="http://gongyi.xy2h.com">二货公益</a>|<a target="_blank" href="http://en.xy2h.com/">English Site</a></div>
+</div>
